@@ -6,7 +6,7 @@ public class Sample {
 		// TODO Auto-generated method stub
 
 		
-		//test
+		//test-feature1
 	}
 
 }
